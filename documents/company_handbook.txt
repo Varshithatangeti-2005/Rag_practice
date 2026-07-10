@@ -1,0 +1,49 @@
+Company Handbook
+
+Company Name: TechNova Solutions
+
+About the Company
+TechNova Solutions is a software development company specializing in cloud applications, artificial intelligence, and data analytics solutions. The company was founded in 2018 and currently has more than 500 employees across India and the United States.
+
+Working Hours
+Employees are expected to work from 9:00 AM to 6:00 PM from Monday to Friday. Flexible work arrangements may be approved by managers based on project requirements.
+
+Leave Policy
+Employees receive 24 paid leave days per year.
+Employees may apply for sick leave through the HR portal.
+Emergency leave requests should be communicated directly to the reporting manager.
+
+Remote Work Policy
+Employees can work remotely up to three days per week.
+Approval from the project manager is required for extended remote work periods.
+Employees must maintain stable internet connectivity while working remotely.
+
+Employee Benefits
+Health insurance coverage is provided for employees and their immediate family members.
+Annual performance bonuses are awarded based on individual and company performance.
+Employees receive a yearly learning budget of $1,000 for certifications and training.
+
+Project Management Guidelines
+All projects must have clearly defined requirements before development begins.
+Sprint planning meetings are conducted every two weeks.
+Project status reports must be submitted every Friday.
+
+Security Policy
+Employees must use multi-factor authentication for all company systems.
+Passwords should be updated every 90 days.
+Sensitive customer data must never be shared through personal email accounts.
+
+Training Programs
+New employees must complete onboarding training within their first month.
+Cybersecurity awareness training is conducted every quarter.
+Technical workshops are organized monthly.
+
+Performance Evaluation
+Employee performance reviews are conducted twice a year.
+Managers evaluate employees based on technical skills, teamwork, communication, and project delivery.
+Promotion decisions are based on performance, leadership potential, and business needs.
+
+Contact Information
+HR Email: [hr@technova.com](mailto:hr@technova.com)
+IT Support Email: [support@technova.com](mailto:support@technova.com)
+Office Location: Hyderabad, India
