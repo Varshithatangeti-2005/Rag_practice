@@ -5,3 +5,5 @@ chromadb
 pypdf
 python-dotenv
 openai
+google-genai
+langgraph
